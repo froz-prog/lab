@@ -1,0 +1,17 @@
+# Visual Studio
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.tlog
+*.lastbuildstate
+*.log
+*.exp
+*.lib
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
